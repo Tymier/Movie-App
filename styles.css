@@ -28,7 +28,7 @@ header {
     font-size: 1rem;
     color: white;
 }
-
+ 
 .search:focus {
     outline: 0;
     background-color: var(--secondary-color);
